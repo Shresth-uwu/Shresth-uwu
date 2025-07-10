@@ -1,8 +1,8 @@
 Hi I'm Shresth
 
-🌐 Passionate Web Developer | Turning Ideas into Interactive Experiences
-Hey there! I'm a creative front-end & full-stack web developer who loves building clean, responsive, and user-friendly websites.
-I craft pixels with purpose and code with curiosity.
+🌐 Passionate Web Developer | Turning Ideas into Interactive Experiences.<br/>
+Hey there! I'm a creative front-end & full-stack web developer who loves building clean, responsive, and user-friendly websites.<br/>
+I craft pixels with purpose and code with curiosity.<br/>
 
 🚀 What I Do<br/>
 💻 Develop dynamic & responsive web applications<br/>
